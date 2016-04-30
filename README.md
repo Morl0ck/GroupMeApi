@@ -1,4 +1,4 @@
-# C# GroupMe Api
+# C# GroupMe Api DLL
 My C# Class Library for GroupMe
 
 See Complete GroupMe Api Documentation Online
