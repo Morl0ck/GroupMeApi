@@ -50,3 +50,4 @@ PME.GroupMeApi.csproj
 bin
 obj
 *.user
+PME.GroupMe
