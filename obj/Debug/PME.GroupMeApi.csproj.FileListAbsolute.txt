@@ -1,7 +1,0 @@
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\bin\Debug\PME.GroupMeApi.dll
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\bin\Debug\PME.GroupMeApi.pdb
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\bin\Debug\SimpleLogger.dll
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\obj\Debug\PME.GroupMeApi.dll
-C:\Users\Morl0ck\Documents\Visual Studio 2015\Projects\PME.GroupMeApi\PME.GroupMeApi\obj\Debug\PME.GroupMeApi.pdb
