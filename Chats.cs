@@ -3,6 +3,10 @@ using System.Net;
 
 namespace PME.GroupMeApi
 {
+    /// <summary>
+    /// Chats Api
+    /// <para>https://dev.groupme.com/docs/v3#chats</para>
+    /// </summary>
     public class Chats
     {
         /// <summary>
