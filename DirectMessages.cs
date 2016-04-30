@@ -6,6 +6,10 @@ using System.Text;
 
 namespace PME.GroupMeApi
 {
+    /// <summary>
+    /// Direct Messages Api
+    /// <para>https://dev.groupme.com/docs/v3#direct_messages</para>
+    /// </summary>
     public class DirectMessages
     {
         protected string actionUrl = "/direct_messages";
