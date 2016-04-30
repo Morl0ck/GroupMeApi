@@ -49,3 +49,4 @@ PME.GroupMeApi.csproj
 *.cache
 bin
 obj
+*.user
