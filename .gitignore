@@ -48,3 +48,5 @@ Temporary Items
 PME.GroupMeApi.csproj
 *.cache
 obj/Debug/PME.GroupMeApi.csproj.FileListAbsolute.txt
+bin
+obj
